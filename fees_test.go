@@ -2,7 +2,7 @@ package spvwallet
 
 import (
 	"bytes"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/projecthelixcoin/wallet-interface"
 	"net/http"
 	"testing"
 )

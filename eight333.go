@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/peer"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/peer"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 var (

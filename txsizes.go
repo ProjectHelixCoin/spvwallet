@@ -7,7 +7,7 @@ package spvwallet
 /* Copied here from a btcd internal package*/
 
 import (
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/wire"
 )
 
 // Worst case script and input/output size estimates.

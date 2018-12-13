@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/phoreproject/btcd/addrmgr"
-	"github.com/phoreproject/btcd/chaincfg"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/connmgr"
-	"github.com/phoreproject/btcd/peer"
-	"github.com/phoreproject/btcd/wire"
-	"github.com/phoreproject/btcutil/bloom"
+	"github.com/projecthelixcoin/btcd/addrmgr"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/connmgr"
+	"github.com/projecthelixcoin/btcd/peer"
+	"github.com/projecthelixcoin/btcd/wire"
+	"github.com/projecthelixcoin/btcutil/bloom"
 	"golang.org/x/net/proxy"
 )
 

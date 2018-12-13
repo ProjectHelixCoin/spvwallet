@@ -2,7 +2,7 @@ package spvwallet
 
 import (
 	"encoding/json"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/projecthelixcoin/wallet-interface"
 	"golang.org/x/net/proxy"
 	"net"
 	"net/http"

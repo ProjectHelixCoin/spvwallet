@@ -2,7 +2,7 @@ package db
 
 import (
 	"database/sql"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/projecthelixcoin/wallet-interface"
 	_ "github.com/mattn/go-sqlite3"
 	"path"
 	"sync"

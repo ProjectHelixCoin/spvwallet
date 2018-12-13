@@ -12,8 +12,8 @@ import (
 	"sync"
 
 	"github.com/boltdb/bolt"
-	"github.com/phoreproject/btcd/chaincfg/chainhash"
-	"github.com/phoreproject/btcd/wire"
+	"github.com/projecthelixcoin/btcd/chaincfg/chainhash"
+	"github.com/projecthelixcoin/btcd/wire"
 	"github.com/cevaris/ordered_map"
 	"strings"
 )

@@ -1,8 +1,8 @@
 package spvwallet
 
 import (
-	"github.com/phoreproject/wallet-interface"
-	"github.com/phoreproject/btcd/chaincfg"
+	"github.com/projecthelixcoin/wallet-interface"
+	"github.com/projecthelixcoin/btcd/chaincfg"
 	"github.com/mitchellh/go-homedir"
 	"github.com/op/go-logging"
 	"golang.org/x/net/proxy"

@@ -2,9 +2,9 @@ package spvwallet
 
 import (
 	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/phoreproject/btcd/chaincfg"
-	hd "github.com/phoreproject/btcutil/hdkeychain"
-	"github.com/phoreproject/wallet-interface"
+	"github.com/projecthelixcoin/btcd/chaincfg"
+	hd "github.com/projecthelixcoin/btcutil/hdkeychain"
+	"github.com/projecthelixcoin/wallet-interface"
 )
 
 const LOOKAHEADWINDOW = 100
